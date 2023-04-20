@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "nama": "dfdf",
+      "kegiatan": "fdf",
+      "id": 1
+    },
+    {
+      "nama": "d",
+      "kegiatan": "d",
+      "id": 2
+    },
+    {
+      "nama": "d",
+      "kegiatan": "d",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
